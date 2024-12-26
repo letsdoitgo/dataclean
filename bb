@@ -1,0 +1,5 @@
+holing shit 感觉实习学的东西好low啊，数据处理用gpt编写的代码，进一步修改处理大数据，使用emditor打开处理。使用sqlsever导入和导出数据，tor网络下载数据集，biglybt对磁力链接下载，还有i2p网络的使用。
+cygwin64对虚拟机上的文件在windows系统上解压
+爬取漏洞数据，爬取exploits漏洞利用脚本，并对数据进行格式处理。
+配置代理，使用宝塔面板。finalshell
+智能体的使用。
